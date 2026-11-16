@@ -1,5 +1,7 @@
 ## Hi, I'm Sukirti
 
+**Portfolio:** [sukirti08.github.io](https://sukirti08.github.io) · **Resume:** [PDF](https://sukirti08.github.io/assets/Sukirti_Tiwari_Resume.pdf)
+
 I build full-stack web apps and like taking projects all the way from idea to a
 running deployment. Lately I've been working on real-time features (WebRTC,
 WebSockets), offline-first sync, and serving ML models from Kubernetes.
